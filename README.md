@@ -26,6 +26,7 @@ A small prototype system that takes unstructured text input and uses an LLM (or 
 ---
 
 ## 📂 Project Structure
+```
 llm_extractor/
 ├── app.py # FastAPI entrypoint
 ├── db.py # SQLite setup
@@ -34,7 +35,7 @@ llm_extractor/
 ├── models.py # Pydantic request/response models
 └── requirements.txt
 
-
+```
 ---
 
 ## ⚙️ Setup
