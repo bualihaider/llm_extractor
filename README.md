@@ -1,7 +1,6 @@
 # 📖 LLM Knowledge Extractor
 
 A small prototype system that takes unstructured text input and uses an LLM (or mock fallback) to produce:
-- A **1–2 sentence summary**
 - Structured metadata (`title`, `topics`, `sentiment`, `keywords`)
 - Stores results in a lightweight database (SQLite)
 - Provides an API for analysis and search
