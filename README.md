@@ -42,7 +42,7 @@ llm_extractor/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/llm-extractor.git
+git clone https://github.com/bualihaider/llm-extractor.git
 cd llm-extractor
 ```
 ### 2. Create a virtual environment (recommended)
